@@ -1,3 +1,3 @@
 #README
 
-#First edit
+#Using GitBash with Github. 
